@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Full stack development related knowleges
+title:      Some brief development knowleges
 category: blog
 description: Cloud computing/Cross-platform UI framework
 ---
@@ -32,3 +32,5 @@ description: Cloud computing/Cross-platform UI framework
 * Language: Dart
 
 ## Vue.js
+
+# Android 3rd-party components
